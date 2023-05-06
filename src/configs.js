@@ -56,7 +56,7 @@ const configs = {
       rotation: [0, 0, 0],
       position: [0, 0, PAGE_DEPH_MARGIN],
       title: 'Here is my CV!',
-      footer: 'Click the icon above to view & to open click on resume',
+      footer: 'Click the icon above to view',
       imageList: {
         rows: 1,
         separation: 3,
