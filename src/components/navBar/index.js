@@ -64,7 +64,7 @@ const NavBar = () => {
 
   useEffect(() => {
     if (!audio.current) {
-      audio.current = new Audio('audio/music.mp3');
+      audio.current = new Audio('audio/bg-music-1.mp3');
       audio.current.loop = true;
 
       document.addEventListener('click', () => {

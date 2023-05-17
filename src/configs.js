@@ -143,7 +143,7 @@ const configs = {
           },
           {
             url: 'icons/email.png',
-            websiteURL: 'mailto:amarkhamkar6@gmail.com',
+            websiteURL: 'mailto:amar@amardev.tech',
           },
           {
             url: 'icons/twitter.png',

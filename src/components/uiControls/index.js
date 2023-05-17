@@ -51,7 +51,7 @@ const MainContainer = styled.div`
   display: flex;
   justify-content: space-between;
   background-color: ${(props) => props.theme.colors.contrast};
-  opacity: 0.4;
+  opacity: 0.5;
   align-items: center;
   position: fixed;
   width: ${(props) => props.windowWidth - 30}px;

@@ -33,9 +33,9 @@ function Hologram() {
     <group ref={hologramRef}>
       <Billboard>
         <Image
-          scale={15}
-          url={'pictures/profile-picture.jpg'}
-          position={[0, 5, 0]}
+          scale={18}
+          url={'pictures/profile-picture.png'}
+          position={[0, 5, 0,5]}
         />
       </Billboard>
       <Cylinder
