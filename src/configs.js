@@ -112,8 +112,8 @@ const configs = {
             websiteURL: 'https://play.google.com/store/apps/details?id=com.ARmarstudio.arslidingpuzzle',
           },
           {
-            url: 'websites-preview/calcont-blog-logo.png',
-            websiteURL: 'https://blog.calcont.in/',
+            url: 'websites-preview/link-book.png',
+            websiteURL: 'https://linkbook.amardev.tech/',
           },
         ],
       },
