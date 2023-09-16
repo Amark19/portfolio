@@ -10,7 +10,7 @@
 export const PAGE_DEPH_MARGIN = 15;
 
 export const EXPERIENCE = {
-  rows: 1,
+  rows: 2,
   separation: 2,
   leftPadding: -0.32,
   topPadding: 0.22,
@@ -24,12 +24,16 @@ export const EXPERIENCE = {
   },
   items: [
     {
-      url: 'websites-preview/hackerrank.png',
-      websiteURL: 'https://hackerrank.com/',
+      url: 'websites-preview/medianet.png',
+      websiteURL: 'https://www.medianet.com/',
     },
     {
       url: 'websites-preview/ajnalens.jpeg',
       websiteURL: 'https://www.ajnalens.com/',
+    },
+    {
+      url: 'websites-preview/hackerrank.png',
+      websiteURL: 'https://hackerrank.com/',
     },
   ],
 };
