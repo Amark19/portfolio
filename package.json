@@ -68,5 +68,6 @@
     "gh-pages": "^5.0.0",
     "react-app-rewired": "^2.2.1",
     "sass": "^1.55.0"
-  }
+  },
+  "packageManager": "yarn@3.6.3"
 }
