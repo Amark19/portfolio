@@ -113,7 +113,7 @@ const configs = {
           },
           {
             url: 'websites-preview/link-book.png',
-            websiteURL: 'https://linkbook.amardev.tech/',
+            websiteURL: 'https://linkbook.amarkhamkar.com/',
           },
         ],
       },
@@ -143,7 +143,7 @@ const configs = {
           },
           {
             url: 'icons/email.png',
-            websiteURL: 'mailto:amar@amardev.tech',
+            websiteURL: 'mailto:contact@amarkhamkar.com',
           },
           {
             url: 'icons/twitter.png',
