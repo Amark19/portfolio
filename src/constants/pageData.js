@@ -25,7 +25,7 @@ export const EXPERIENCE = {
   items: [
     {
       url: 'websites-preview/medianet.png',
-      websiteURL: 'https://www.medianet.com/',
+      websiteURL: 'https://www.media.net/',
     },
     {
       url: 'websites-preview/ajnalens.jpeg',
