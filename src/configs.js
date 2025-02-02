@@ -67,7 +67,7 @@ const configs = {
           {
             url: 'icons/resume.png',
             imgUrl:
-              'pictures/resumes/my-resume.png',
+              'pictures/resumes/my-resume.jpg',
           },
         ], imageViewer: {
           position: [0, 0, -15],
